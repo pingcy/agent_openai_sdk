@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+.venv
+env/
+venv/
+.idea/
+.vscode/
+*.log
+.logfire
+
+# Chroma related
+chroma_data/
+storage_chroma/
